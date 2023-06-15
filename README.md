@@ -55,6 +55,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BuiQuangMinh30&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiQuangMinh30&langs_count=8)
 <br>
 
