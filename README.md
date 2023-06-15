@@ -53,15 +53,8 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![](https://github-readme-stats.vercel.app/api?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BuiQuangMinh30&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true&layout=compact)
 <br>
 
-
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/bqminhdev-quotes.svg" width="846" height="150" alt="bqminhdev-official" />
-</a>
