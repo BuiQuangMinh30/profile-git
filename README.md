@@ -24,7 +24,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=FFFFFF" alt="Laravel logo" title="Laravel" height="25"/>
 </span>
 <span><img src="https://img.shields.io/badge/Material-blue?logo=mui&logoColor=FFFFFF" alt="Material logo" title="Material" height="25"/>
