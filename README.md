@@ -50,8 +50,8 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![](https://github-readme-stats.vercel.app/api?username=BuiQuangMinh30&theme=radical&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BuiQuangMinh30&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuiQuangMinh30&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=bqminh30&theme=radical&hide_border=false&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bqminh30&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bqminh30&langs_count=8)
 <br>
 
